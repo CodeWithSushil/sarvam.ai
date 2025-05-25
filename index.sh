@@ -1,3 +1,4 @@
+#!bin/bash/curl
 curl -X POST https://api.sarvam.ai/v1/chat/completions \
      -H "Authorization: Authorization" \
      -H "Content-Type: application/json" \
