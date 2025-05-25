@@ -1,5 +1,7 @@
 # sarvam.ai
 Sarvam.AI for India AI ecosystem.
+
+### cURL
 ```bash
 curl -X POST https://api.sarvam.ai/v1/chat/completions \
      -H "Authorization: Authorization" \
@@ -14,3 +16,6 @@ curl -X POST https://api.sarvam.ai/v1/chat/completions \
   "model": "sarvam-m"
 }'
 ```
+### JavaScript/TypeScript
+
+### Python
